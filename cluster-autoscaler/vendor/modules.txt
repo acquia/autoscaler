@@ -480,7 +480,7 @@ github.com/mistifyio/go-zfs
 # github.com/mitchellh/go-homedir v1.1.0
 ## explicit
 github.com/mitchellh/go-homedir
-# github.com/moby/spdystream v0.2.0
+# github.com/moby/spdystream v0.5.1
 ## explicit; go 1.13
 github.com/moby/spdystream
 github.com/moby/spdystream/spdy
@@ -2201,7 +2201,6 @@ sigs.k8s.io/cloud-provider-azure/pkg/azureclients
 sigs.k8s.io/cloud-provider-azure/pkg/azureclients/armclient
 sigs.k8s.io/cloud-provider-azure/pkg/azureclients/blobclient
 sigs.k8s.io/cloud-provider-azure/pkg/azureclients/containerserviceclient
-sigs.k8s.io/cloud-provider-azure/pkg/azureclients/containerserviceclient/mockcontainerserviceclient
 sigs.k8s.io/cloud-provider-azure/pkg/azureclients/deploymentclient
 sigs.k8s.io/cloud-provider-azure/pkg/azureclients/diskclient
 sigs.k8s.io/cloud-provider-azure/pkg/azureclients/diskclient/mockdiskclient
